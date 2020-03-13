@@ -2,7 +2,7 @@
 
 用 Python 貼文到 WordPress 上面
 
-安裝 wordpress_xml_rpc:
+安裝 python-wordpress-xmlrpc:
 
     pip install python-wordpress-xmlrpc
 
